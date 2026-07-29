@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "澄江生物群（云南）",
+        "age": "约5.18亿年前 | 寒武纪早期",
+        "description": "寒武纪大爆发最完整的化石窗口，软躯体化石保存了触角、消化道等精细结构。",
+        "category": "寒武纪特异埋藏"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.92,
+          24.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "布尔吉斯页岩（加拿大）",
+        "age": "约5.08亿年前 | 寒武纪中期",
+        "description": "与澄江互为补充，深水浊流沉积环境保存了迥异的物种组合，共同勾勒寒武纪大爆发全貌。",
+        "category": "寒武纪特异埋藏"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.48,
+          51.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "埃迪卡拉丘陵（澳大利亚）",
+        "age": "约5.71–5.39亿年前 | 埃迪卡拉纪",
+        "description": "寒武纪大爆发前夜的静态生态系统，以软躯体多细胞生物为主，代表了复杂生命的最早尝试。",
+        "category": "前寒武纪特异埋藏"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.13,
+          -30.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "热河生物群（中国辽西）",
+        "age": "约1.3–1.2亿年前 | 白垩纪早期",
+        "description": "以带羽毛恐龙、早期鸟类化石闻名于世，记录了恐龙向鸟类演化的关键过渡阶段。",
+        "category": "中生代特异埋藏"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8,
+          41.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "索伦霍芬（德国）",
+        "age": "约1.5亿年前 | 晚侏罗世",
+        "description": "始祖鸟化石产地，石版印刷级灰岩保存了包括昆虫翅膀纹理在内的极致细节。",
+        "category": "中生代特异埋藏"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0,
+          48.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "禄丰恐龙谷（云南）",
+        "age": "约2亿年前 | 早侏罗世",
+        "description": "许禄丰龙——中国最早被科学命名的恐龙之一，早期蜥脚形类恐龙的重要代表。",
+        "category": "恐龙化石产地"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.08,
+          25.15
+        ]
+      }
+    }
+  ]
+}
